@@ -1,0 +1,21 @@
+{
+  "name": "UIUC Reading Day 2026",
+  "short_name": "Reading Day",
+  "description": "All events, food, and activities on UIUC Reading Day",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

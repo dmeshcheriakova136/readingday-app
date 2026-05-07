@@ -1,0 +1,379 @@
+[
+  {
+    "id": 1,
+    "location": "Siebel Center for Design",
+    "short": "Siebel CD",
+    "headline": "Mini horses + free drinks",
+    "address": "1209 W Oregon St, Urbana",
+    "lat": 40.1067666,
+    "lng": -88.2252008,
+    "start_time": "11:00",
+    "end_time": "16:00",
+    "free_food": [
+      "Celsius",
+      "Monster",
+      "VitaCoco",
+      "Hero samples",
+      "Colourpop samples"
+    ],
+    "food_types": [
+      "drinks",
+      "samples"
+    ],
+    "access": "Open to all",
+    "activities": [
+      "Mini horses 1–2pm",
+      "Crafting station",
+      "Games with prizes"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "drinks",
+      "samples",
+      "active",
+      "crafts"
+    ],
+    "emoji": "⚡️",
+    "color": "orange",
+    "notes": "Stop by the Siebel Center for Design for Reading Day! Pick up free energy drinks (Celsius, Monster, VitaCoco), cosmetic samples from Hero and Colourpop, catch the mini horses from 1-2pm, get creative at the crafting station in The Shop, and compete in games with prizes.",
+    "link": "https://designcenter.illinois.edu/stories/student-stories/reading-day-recap"
+  },
+  {
+    "id": 2,
+    "location": "ECE Reading Day Treats",
+    "short": "ECEB Atrium",
+    "headline": "Sandwiches, sweets & therapy dogs",
+    "address": "ECEB Atrium · 306 N Wright St, Urbana",
+    "lat": 40.1149296,
+    "lng": -88.2280589,
+    "start_time": "13:30",
+    "end_time": "16:00",
+    "free_food": [
+      "JJ's Everyday sandwiches",
+      "Sweet treats",
+      "ECE swag"
+    ],
+    "food_types": [
+      "meal",
+      "treats"
+    ],
+    "access": "Open to all · while supplies last",
+    "activities": [
+      "Crafting tables",
+      "UIPD therapy dogs 2–3pm"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "meal",
+      "treats",
+      "crafts"
+    ],
+    "emoji": "🐶",
+    "color": "orange",
+    "notes": "The ECE Department hosts a Reading Day celebration in the ECEB Atrium. Grab JJ sandwiches, sweet treats, and ECE swag, hang out with UIPD therapy dogs (2-3pm), and unwind at the crafting tables. Open to all — not just ECE students. Food and swag while supplies last.",
+    "link": "https://calendars.illinois.edu/detail/172?eventId=33551478"
+  },
+  {
+    "id": 3,
+    "location": "FAA Finals Fest",
+    "short": "Krannert Art Museum",
+    "headline": "Coffee bar & art making in the museum",
+    "address": "Krannert Art Museum · 500 E Peabody Dr, Champaign",
+    "lat": 40.101441,
+    "lng": -88.237507,
+    "start_time": "12:00",
+    "end_time": "15:30",
+    "free_food": [
+      "Coffee bar",
+      "Snacks"
+    ],
+    "food_types": [
+      "coffee",
+      "snacks"
+    ],
+    "access": "Free for all students",
+    "activities": [
+      "Art-making stations",
+      "Study space",
+      "Gallery access",
+      "Guided tours"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "drinks",
+      "snacks",
+      "crafts",
+      "study-space"
+    ],
+    "emoji": "🎨",
+    "color": "purple",
+    "notes": "The College of Fine & Applied Arts brings Finals Fest to Krannert Art Museum. There is a coffee bar, snacks, art-making activities, and study tables with outlets spread through the museum galleries — a calm, inspiring place to get through reading day. Sponsored by the College of FAA, Ricker Library, and Krannert Art Museum.",
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33548754"
+  },
+  {
+    "id": 4,
+    "location": "De-Stress Fest – Funk Library",
+    "short": "Funk Library",
+    "headline": "Coffee, puzzles & wildlife animals",
+    "address": "Funk ACES Library · 1101 S Goodwin Ave, Urbana",
+    "lat": 40.1028373,
+    "lng": -88.2251326,
+    "start_time": "11:00",
+    "end_time": "15:00",
+    "free_food": [
+      "Coffee & Tea 11am–12pm"
+    ],
+    "food_types": [
+      "coffee"
+    ],
+    "access": "Open to all",
+    "activities": [
+      "All day: Coloring Sheets from Color Our Collections",
+      "All day: World's Largest Puzzle & more puzzles",
+      "All day: Whiteboard Questions",
+      "All day: Animal Cams",
+      "All day: Spotify Playlist",
+      "All day: Emoji Wall",
+      "11am–12pm: Coffee & Tea (2nd Floor)",
+      "2–3pm: Wildlife Ambassador Animals (2nd Floor New Book Area)"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "coffee",
+      "animals",
+      "crafts"
+    ],
+    "emoji": "📚",
+    "color": "green",
+    "notes": "Part of the Library De-Stress Fest. The Funk ACES Library has coloring sheets, the World's Largest Puzzle, whiteboard questions, animal cams, and an emoji wall going all day. Free coffee & tea on the 2nd Floor (11am-noon), and Wildlife Ambassador Animals at 2-3pm.",
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596"
+  },
+  {
+    "id": 6,
+    "location": "Snack & Study",
+    "short": "1208 W Nevada",
+    "headline": "Quiet study spot + snacks",
+    "address": "1208 W Nevada St, Urbana",
+    "lat": 40.1061525,
+    "lng": -88.2247692,
+    "start_time": "13:00",
+    "end_time": "16:00",
+    "free_food": [
+      "Snacks"
+    ],
+    "food_types": [
+      "snacks"
+    ],
+    "access": "Open to all",
+    "activities": [
+      "Open study space"
+    ],
+    "category": "food+study",
+    "tags": [
+      "free-food",
+      "snacks",
+      "study-space"
+    ],
+    "emoji": "☕",
+    "color": "green",
+    "notes": "Every Thursday the Asian American Studies building opens its cozy Reading Room to all students. Pull up a seat, enjoy free hot drinks and snacks while supplies last, and take a real break from finals prep.",
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33525801"
+  },
+  {
+    "id": 7,
+    "location": "Reading Day Crafternoon",
+    "short": "Women's Resources Ctr",
+    "headline": "All-day crafting, drop in any time",
+    "address": "Women's Resources Center · 616 E Green St, Champaign",
+    "lat": 40.1105713,
+    "lng": -88.229608,
+    "start_time": "09:00",
+    "end_time": "17:00",
+    "free_food": [],
+    "food_types": [],
+    "access": "Open to all",
+    "activities": [
+      "All-day crafting",
+      "Art supplies provided",
+      "Open study"
+    ],
+    "category": "activities",
+    "tags": [
+      "crafts",
+      "study-space"
+    ],
+    "emoji": "✂️",
+    "color": "purple",
+    "notes": "The Women's Resources Center hosts an all-day crafternoon with returning fan-favorite projects from this year. Drop in to decompress, make something, or just say hi. Free tea, coffee, and snacks provided. Perfect study break any time between 9am and 5pm.",
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33550715"
+  },
+  {
+    "id": 8,
+    "location": "GWS Book Swap",
+    "short": "Gender & Women's Studies",
+    "headline": "Free care packages + book swap",
+    "address": "1205 W Nevada St, Urbana",
+    "lat": 40.1056937,
+    "lng": -88.2246898,
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "free_food": [
+      "Free care packages"
+    ],
+    "food_types": [
+      "care-package"
+    ],
+    "access": "Open to all",
+    "activities": [
+      "Book swap — bring one, take one"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "care-package"
+    ],
+    "emoji": "📦",
+    "color": "green",
+    "notes": "Gender & Women's Studies sends off reading day with free books in every genre — feminist theory, poetry, memoir, textbooks, contemporary fiction, cookbooks, and more. Plus mini care packages to fuel your finals. Bring a book to donate or just come take one. Student award announcements at 11am.",
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33550822"
+  },
+  {
+    "id": 12,
+    "location": "YMCA Picnic",
+    "short": "University YMCA",
+    "headline": "Free picnic on the lawn",
+    "address": "University YMCA · 1001 S Wright St, Champaign",
+    "lat": 40.1065094,
+    "lng": -88.2292246,
+    "start_time": "12:00",
+    "end_time": "14:00",
+    "free_food": [
+      "Free picnic food"
+    ],
+    "food_types": [
+      "meal"
+    ],
+    "access": "Open to all",
+    "activities": [
+      "Outdoor picnic on the lawn"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "meal",
+      "outdoors"
+    ],
+    "emoji": "🧺",
+    "color": "orange",
+    "notes": "University YMCA hosts a free outdoor picnic on the lawn. Grab a plate and take a real break outside before finals hit. Drop in any time between noon and 2pm."
+  },
+  {
+    "id": 13,
+    "location": "De-Stress Fest – Grainger Engineering Library",
+    "short": "Grainger Library",
+    "headline": "VR, crafts & free snacks all day",
+    "address": "Grainger Engineering Library · 1301 W Springfield Ave, Urbana",
+    "lat": 40.10306,
+    "lng": -88.2283,
+    "start_time": "10:30",
+    "end_time": "21:00",
+    "free_food": [
+      "Snacks every 2 hours starting noon (outside IDEA Lab)"
+    ],
+    "food_types": [
+      "snacks"
+    ],
+    "access": "Open to all · Study spaces require reservation",
+    "activities": [
+      "All day @ IDEA Lab: Study Spaces (reservation required)",
+      "All day @ IDEA Lab: Board Games",
+      "All day @ IDEA Lab: VR Game Room",
+      "All day @ IDEA Lab: Animal Cam Streaming",
+      "All day @ IDEA Lab: World's Largest Puzzle Station",
+      "All day @ IDEA Lab: Fidget Toys (Play-Doh, Stress Balls)",
+      "All day @ IDEA Lab: Study Supply Stations (Pencils, Scrap Paper)",
+      "All day @ IDEA Lab: Activity Stations (Coloring Sheets, DIY Puzzles)",
+      "2–3pm: Bullet Journaling (Grainger Commons, Rm 233/235)",
+      "4–5pm: Mosaic Lanterns DIY (Grainger Commons, Rm 233/235)",
+      "6–7pm: Cricut Bookmarks DIY (Grainger Commons, Rm 233/235)"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "snacks",
+      "study-space",
+      "crafts",
+      "active"
+    ],
+    "emoji": "🔬",
+    "color": "green",
+    "notes": "Grainger Library runs one of the biggest De-Stress Fest stops on campus. The IDEA Lab (basement) has study spaces, board games, VR, coloring, fidget toys, and nature videos all day. Snacks drop every 2 hours outside the lab starting at noon. Evening workshops include bullet journaling, mosaic lanterns DIY, and Cricut bookmarks. McKinley Stress Management Team visits 4:15-5:15pm.",
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596"
+  },
+  {
+    "id": 14,
+    "location": "De-Stress Fest – Main Library",
+    "short": "Main Library",
+    "headline": "Therapy horses, donuts & packed hourly activities",
+    "address": "Main Library · 1408 W Gregory Dr, Urbana",
+    "lat": 40.1046808,
+    "lng": -88.22899,
+    "start_time": "10:30",
+    "end_time": "21:00",
+    "free_food": [
+      "Snacks 12–1pm",
+      "Snacks 3–4pm",
+      "Snacks 6–7pm",
+      "Donuts 7–8pm",
+      "Snacks 8–9pm"
+    ],
+    "food_types": [
+      "snacks",
+      "treats"
+    ],
+    "access": "Open to all",
+    "activities": [
+      "All day (Orange Room): Puppy Cam Streaming",
+      "All day (Orange Room): Illinois Coloring Books",
+      "All day (Orange Room): Positive Affirmations",
+      "All day (Orange Room): Play-Doh & KinetiSand",
+      "All day (Orange Room): World's Largest Puzzle",
+      "All day (Orange Room): Assorted Board Games",
+      "10:30am–12pm (Library Gallery): Heartland Mini Hoofs Therapy Horses & Polaroid Pictures",
+      "11am–12pm (Orange Room): Research Consultations",
+      "12–1pm (Orange Room): Make-A-Button & Free Snacks",
+      "1–2pm (Orange Room): Citation FAQs & Creative Brainstorm with the Writers Workshop",
+      "1–2pm (Library Gallery): Green Screen Photo Booth with the Scholarly Commons",
+      "1–2pm (Room 106): Live Guided Drawing Tutorial",
+      "2–3pm (Orange Room): Recycled Book Page Greeting Cards & Card Catalog Art",
+      "2–3pm (Orange Room): Citation FAQs & Creative Brainstorm with the Writers Workshop",
+      "2–3pm (Library Gallery): Green Screen Photo Booth with the Scholarly Commons",
+      "3–4pm (Orange Room): Paper Snowflakes & Free Snacks",
+      "3–4pm (Orange Room): Citation FAQs & Creative Brainstorm with the Writers Workshop",
+      "3–4pm (Room 346): Holiday Party & Reading Day Relaxer with the Rare Book and Manuscript Library",
+      "4–5pm (Orange Room): Make-A-Button",
+      "4–5pm (Room 346): Holiday Party & Reading Day Relaxer with the Rare Book and Manuscript Library",
+      "5–6pm (Room 106): Live Guided Drawing Tutorial",
+      "6–7pm (Orange Room): Recycled Book Page Greeting Cards & Card Catalog Art & Free Snacks",
+      "7–8pm (Orange Room): Donuts!",
+      "8–9pm (Orange Room): Paper Snowflakes & Free Snacks"
+    ],
+    "category": "food+activities",
+    "tags": [
+      "free-food",
+      "snacks",
+      "treats",
+      "animals",
+      "crafts",
+      "study-space"
+    ],
+    "emoji": "📚",
+    "color": "green",
+    "notes": "The Main Library De-Stress Fest runs 10:30am to 9pm. Catch therapy mini-horses in the Gallery (10:30am-noon), make buttons, do guided drawing, work on recycled book page greeting cards, and grab snacks at four different time slots. The Orange Room has all-day coloring, board games, Play-Doh, and the World's Largest Puzzle. Writers Workshop and Scholarly Commons are also on hand.",
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596"
+  }
+]
