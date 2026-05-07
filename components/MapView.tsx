@@ -190,6 +190,43 @@ function EventDetailPanel({ ev, onBack }: { ev: Event; onBack: () => void }) {
           </div>
         </div>
 
+        {/* SCHEDULE */}
+        {ev.schedule && ev.schedule.length > 0 && (
+          <div style={{ background: '#fff', borderRadius: 18, border: '1px solid var(--hair)' }}>
+            <div style={{ padding: '14px 16px' }}>
+              <div style={{ fontSize: 10, fontWeight: 700, color: '#8C8678', textTransform: 'uppercase', letterSpacing: '0.14em', marginBottom: 14 }}>
+                Schedule
+              </div>
+              <div style={{ display: 'flex', flexDirection: 'column' }}>
+                {ev.schedule.map((slot, i) => (
+                  <div key={i} style={{ display: 'flex', gap: 12, paddingBottom: i < ev.schedule!.length - 1 ? 14 : 0 }}>
+                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexShrink: 0, width: 14 }}>
+                      <div style={{
+                        width: 9, height: 9, borderRadius: '50%', flexShrink: 0, marginTop: 3,
+                        background: slot.time === 'All day' ? '#DCE4F5' : '#E84A27',
+                        border: slot.time === 'All day' ? '2px solid #13294B' : 'none',
+                      }} />
+                      {i < ev.schedule!.length - 1 && (
+                        <div style={{ width: 1.5, flex: 1, background: 'var(--hair)', marginTop: 4 }} />
+                      )}
+                    </div>
+                    <div style={{ flex: 1 }}>
+                      <div style={{ fontSize: 11.5, fontWeight: 800, color: slot.time === 'All day' ? '#13294B' : '#E84A27', marginBottom: 3 }}>
+                        {slot.time}
+                      </div>
+                      {slot.items.map((item, j) => (
+                        <div key={j} style={{ fontSize: 13, color: '#4A463E', lineHeight: 1.5, marginBottom: j < slot.items.length - 1 ? 2 : 0 }}>
+                          {item}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* WHAT'S OFFERED */}
         {offeringChips.length > 0 && (
           <div style={{ background: '#fff', borderRadius: 18, border: '1px solid var(--hair)' }}>

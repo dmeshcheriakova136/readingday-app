@@ -18,4 +18,5 @@ export interface Event {
   color: string
   notes: string
   link?: string
+  schedule?: Array<{ time: string; items: string[] }>
 }

@@ -150,7 +150,31 @@
     "emoji": "📚",
     "color": "green",
     "notes": "Part of the Library De-Stress Fest. The Funk ACES Library has coloring sheets, the World's Largest Puzzle, whiteboard questions, animal cams, and an emoji wall going all day. Free coffee & tea on the 2nd Floor (11am-noon), and Wildlife Ambassador Animals at 2-3pm.",
-    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596"
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596",
+    "schedule": [
+      {
+        "time": "All day",
+        "items": [
+          "Coloring sheets",
+          "World's Largest Puzzle",
+          "Whiteboard questions",
+          "Animal cams",
+          "Emoji wall"
+        ]
+      },
+      {
+        "time": "11 AM – 12 PM",
+        "items": [
+          "Free coffee & tea · 2nd Floor"
+        ]
+      },
+      {
+        "time": "2 – 3 PM",
+        "items": [
+          "Wildlife Ambassador Animals · 2nd Floor"
+        ]
+      }
+    ]
   },
   {
     "id": 6,
@@ -312,7 +336,49 @@
     "emoji": "🔬",
     "color": "green",
     "notes": "Grainger Library runs one of the biggest De-Stress Fest stops on campus. The IDEA Lab (basement) has study spaces, board games, VR, coloring, fidget toys, and nature videos all day. Snacks drop every 2 hours outside the lab starting at noon. Evening workshops include bullet journaling, mosaic lanterns DIY, and Cricut bookmarks. McKinley Stress Management Team visits 4:15-5:15pm.",
-    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596"
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596",
+    "schedule": [
+      {
+        "time": "All day",
+        "items": [
+          "Study spaces (reservation req.)",
+          "Board games",
+          "VR game room",
+          "Coloring & fidget toys",
+          "Nature videos · IDEA Lab basement"
+        ]
+      },
+      {
+        "time": "12 – 1:30 PM",
+        "items": [
+          "Board games · Commons Rm 233/235"
+        ]
+      },
+      {
+        "time": "12 PM onwards",
+        "items": [
+          "Snacks every 2 hrs outside IDEA Lab (12, 2, 4, 6, 8 PM)"
+        ]
+      },
+      {
+        "time": "3 – 9 PM",
+        "items": [
+          "Collage boards, button making, crochet bookmarks, canvas painting · 2nd Floor"
+        ]
+      },
+      {
+        "time": "4 – 6 PM",
+        "items": [
+          "Writers Workshop · 1st Floor"
+        ]
+      },
+      {
+        "time": "4:15 – 5:15 PM",
+        "items": [
+          "McKinley Stress Management · Visualization Theatre"
+        ]
+      }
+    ]
   },
   {
     "id": 14,
@@ -374,7 +440,88 @@
     "emoji": "📚",
     "color": "green",
     "notes": "The Main Library De-Stress Fest runs 10:30am to 9pm. Catch therapy mini-horses in the Gallery (10:30am-noon), make buttons, do guided drawing, work on recycled book page greeting cards, and grab snacks at four different time slots. The Orange Room has all-day coloring, board games, Play-Doh, and the World's Largest Puzzle. Writers Workshop and Scholarly Commons are also on hand.",
-    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596"
+    "link": "https://calendars.illinois.edu/detail/7?eventId=33541596",
+    "schedule": [
+      {
+        "time": "All day",
+        "items": [
+          "Coloring, animal cams, board games, poetry prescriptions · Orange Room"
+        ]
+      },
+      {
+        "time": "10:30 AM – 12 PM",
+        "items": [
+          "Mini therapy horses · Library Gallery"
+        ]
+      },
+      {
+        "time": "11 AM – 12 PM",
+        "items": [
+          "Research consultations · Orange Room"
+        ]
+      },
+      {
+        "time": "12 – 1 PM",
+        "items": [
+          "Make-A-Button · Orange Room",
+          "🍕 Free snacks"
+        ]
+      },
+      {
+        "time": "1 – 2 PM",
+        "items": [
+          "Citation help + creative brainstorm",
+          "Green screen photo booth · Gallery",
+          "Guided drawing · Room 106"
+        ]
+      },
+      {
+        "time": "2 – 3 PM",
+        "items": [
+          "Recycled book page greeting cards",
+          "Green screen photo booth · Gallery"
+        ]
+      },
+      {
+        "time": "3 – 4 PM",
+        "items": [
+          "Paper snowflakes · Orange Room",
+          "🍕 Free snacks"
+        ]
+      },
+      {
+        "time": "4 – 5 PM",
+        "items": [
+          "Make-A-Button · Orange Room"
+        ]
+      },
+      {
+        "time": "5 – 6 PM",
+        "items": [
+          "Guided drawing · Room 106"
+        ]
+      },
+      {
+        "time": "6 – 7 PM",
+        "items": [
+          "Recycled book page cards · Orange Room",
+          "🍕 Free snacks"
+        ]
+      },
+      {
+        "time": "7 – 8 PM",
+        "items": [
+          "🍩 Donuts! · Orange Room"
+        ]
+      },
+      {
+        "time": "8 – 9 PM",
+        "items": [
+          "Paper snowflakes · Orange Room",
+          "🍕 Free snacks"
+        ]
+      }
+    ]
   },
   {
     "id": 15,
@@ -386,8 +533,16 @@
     "lng": -88.2300179,
     "start_time": "12:00",
     "end_time": "17:00",
-    "free_food": ["Boba from Kungfu Tea", "Jimmy John's sandwiches", "Popcorn"],
-    "food_types": ["drinks", "meal", "snacks"],
+    "free_food": [
+      "Boba from Kungfu Tea",
+      "Jimmy John's sandwiches",
+      "Popcorn"
+    ],
+    "food_types": [
+      "drinks",
+      "meal",
+      "snacks"
+    ],
     "access": "Open to all · registration encouraged",
     "activities": [
       "Zootopia 2 screening (starts 1:30 PM)",
@@ -395,7 +550,13 @@
       "Hang with friends before finals"
     ],
     "category": "food+activities",
-    "tags": ["free-food", "drinks", "meal", "snacks", "crafts"],
+    "tags": [
+      "free-food",
+      "drinks",
+      "meal",
+      "snacks",
+      "crafts"
+    ],
     "emoji": "🎬",
     "color": "purple",
     "notes": "Take a break on Reading Day! Drop in any time for a cozy Unwind & Rewind Night — watercolor painting, free boba from Kungfu Tea, Jimmy John's, and popcorn. Zootopia 2 starts at 1:30 PM. Open to anyone, registration encouraged."

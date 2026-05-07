@@ -194,6 +194,49 @@ export default async function EventDetailPage({ params }: { params: Promise<{ id
           </div>
         </div>
 
+        {/* SCHEDULE */}
+        {event.schedule && event.schedule.length > 0 && (
+          <div style={{ background: '#fff', borderRadius: 20, border: '1px solid var(--hair)' }}>
+            <div style={{ padding: '16px 18px' }}>
+              <div style={{ fontSize: 10, fontWeight: 700, color: '#8C8678', textTransform: 'uppercase', letterSpacing: '0.14em', marginBottom: 16 }}>
+                Schedule
+              </div>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
+                {event.schedule.map((slot, i) => (
+                  <div key={i} style={{ display: 'flex', gap: 14, paddingBottom: i < event.schedule!.length - 1 ? 16 : 0 }}>
+                    {/* Timeline spine */}
+                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', flexShrink: 0, width: 16 }}>
+                      <div style={{
+                        width: 10, height: 10, borderRadius: '50%', flexShrink: 0, marginTop: 3,
+                        background: slot.time === 'All day' ? '#DCE4F5' : '#E84A27',
+                        border: slot.time === 'All day' ? '2px solid #13294B' : 'none',
+                      }} />
+                      {i < event.schedule!.length - 1 && (
+                        <div style={{ width: 1.5, flex: 1, background: 'var(--hair)', marginTop: 4 }} />
+                      )}
+                    </div>
+                    {/* Content */}
+                    <div style={{ flex: 1, paddingBottom: 2 }}>
+                      <div style={{
+                        fontSize: 12, fontWeight: 800, letterSpacing: '-0.01em',
+                        color: slot.time === 'All day' ? '#13294B' : '#E84A27',
+                        marginBottom: 4,
+                      }}>
+                        {slot.time}
+                      </div>
+                      {slot.items.map((item, j) => (
+                        <div key={j} style={{ fontSize: 13.5, color: '#4A463E', lineHeight: 1.5, marginBottom: j < slot.items.length - 1 ? 3 : 0 }}>
+                          {item}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* WHAT'S OFFERED — flat chips for everything */}
         {offeringChips.length > 0 && (
           <div style={{ background: '#fff', borderRadius: 20, border: '1px solid var(--hair)' }}>
