@@ -36,7 +36,7 @@ export const ICON_FOR: Record<number, string> = {
   1: 'mountain', 2: 'cup',      3: 'palette', 4: 'book',
   5: 'mountain', 6: 'cup',      7: 'scissors', 8: 'gift',
   9: 'dumbbell', 10: 'heart',   11: 'flower',  12: 'basket',
-  13: 'book',    14: 'book',
+  13: 'book',    14: 'book',   15: 'palette',
 }
 
 // UIUC duotone: orange events → Illini orange, everything else → Illini navy

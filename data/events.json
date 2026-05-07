@@ -375,5 +375,29 @@
     "color": "green",
     "notes": "The Main Library De-Stress Fest runs 10:30am to 9pm. Catch therapy mini-horses in the Gallery (10:30am-noon), make buttons, do guided drawing, work on recycled book page greeting cards, and grab snacks at four different time slots. The Orange Room has all-day coloring, board games, Play-Doh, and the World's Largest Puzzle. Writers Workshop and Scholarly Commons are also on hand.",
     "link": "https://calendars.illinois.edu/detail/7?eventId=33541596"
+  },
+  {
+    "id": 15,
+    "location": "Unwind & Rewind Night",
+    "short": "614 E Daniel",
+    "headline": "Zootopia 2, watercolor painting & free boba",
+    "address": "614 E Daniel St, Room 5043, Champaign",
+    "lat": 40.1080543,
+    "lng": -88.2300179,
+    "start_time": "12:00",
+    "end_time": "17:00",
+    "free_food": ["Boba from Kungfu Tea", "Jimmy John's sandwiches", "Popcorn"],
+    "food_types": ["drinks", "meal", "snacks"],
+    "access": "Open to all · registration encouraged",
+    "activities": [
+      "Zootopia 2 screening (starts 1:30 PM)",
+      "Watercolor painting",
+      "Hang with friends before finals"
+    ],
+    "category": "food+activities",
+    "tags": ["free-food", "drinks", "meal", "snacks", "crafts"],
+    "emoji": "🎬",
+    "color": "purple",
+    "notes": "Take a break on Reading Day! Drop in any time for a cozy Unwind & Rewind Night — watercolor painting, free boba from Kungfu Tea, Jimmy John's, and popcorn. Zootopia 2 starts at 1:30 PM. Open to anyone, registration encouraged."
   }
 ]
